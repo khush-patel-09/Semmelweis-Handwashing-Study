@@ -5,9 +5,9 @@
 This project revisits the 1847 medical breakthrough by Dr. Ignaz Semmelweis, who introduced handwashing in hospitals. Using real historical data, we confirm that this simple hygiene act significantly reduced mortality.
 
 ### 📁 Contents
-- `Handwashing_Analysis.ipynb`: Full code and visualizations
-- `monthly_deaths_with_clinic.csv`: Cleaned dataset used
-- `Handwashing_Analysis.pdf`: Report-style writeup (IEEE-flavored)
+- `handwashing_analysis.ipynb`: Full code and visualizations
+- `monthly_deaths.csv`: Cleaned dataset used
+- `Handwashing_Analysis.pdf`: Report-style writeup
 
 ### 📊 Highlights
 - 📉 Mortality dropped from **11.31% → 1.84%**
